@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://rms-dev.inits.xyz/",
+    "pageLoadTimeout":100000,
+    "viewportHeight":800,
+    "viewportWidth":1500
+
+    
+}
